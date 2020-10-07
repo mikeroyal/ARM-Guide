@@ -33,3 +33,27 @@
 [Embedded Systems using the ARM Mbed Platform online course](https://www.udemy.com/course/arm-mbed/)
 
 [Microcontroller Courses from Coursera](https://www.coursera.org/courses?query=microcontroller)
+
+## Apple Silicon Resources
+
+[Apple A12Z Bionic](https://www.apple.com/) is Apple's 64-bit ARM-based system on a chip (SoC) used in their iPhones adn iPads. Though, at WWDC 2020 it was announced that [Apple Silicon](https://developer.apple.com/documentation/apple_silicon) would [transition into Mac laptops](https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/). 
+
+[Porting Your macOS Apps to Apple Silicon](https://developer.apple.com/documentation/xcode/porting_your_macos_apps_to_apple_silicon)
+
+[Building a Universal macOS Binary](https://developer.apple.com/documentation/xcode/building_a_universal_macos_binary)
+
+Addressing Architectural Differences in Your macOS Code(https://developer.apple.com/documentation/apple_silicon/addressing_architectural_differences_in_your_macos_code)
+
+[Porting Just-In-Time(JIT) Compilers to Apple Silicon](https://developer.apple.com/documentation/apple_silicon/porting_just-in-time_compilers_to_apple_silicon)
+
+[Porting Your Audio Code to Apple Silicon](https://developer.apple.com/documentation/audiounit/porting_your_audio_code_to_apple_silicon)
+
+[Porting Your Metal Code to Apple Silicon](https://developer.apple.com/documentation/metal/porting_your_metal_code_to_apple_silicon)
+
+[Tuning Your Code’s Performance for Apple Silicon](https://developer.apple.com/documentation/os/workgroups/tuning_your_code_s_performance_for_apple_silicon)
+
+[Learn how Rosetta translates executables and what Rosetta can’t translate](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
+
+[Running Your iOS Apps on macOS](https://developer.apple.com/documentation/apple_silicon/running_your_ios_apps_on_macos)
+
+[Adapting iOS Code to Run in the macOS Environment](https://developer.apple.com/documentation/apple_silicon/adapting_ios_code_to_run_in_the_macos_environment)
