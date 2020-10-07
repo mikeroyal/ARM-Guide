@@ -42,7 +42,7 @@
 
 [Building a Universal macOS Binary](https://developer.apple.com/documentation/xcode/building_a_universal_macos_binary)
 
-Addressing Architectural Differences in Your macOS Code(https://developer.apple.com/documentation/apple_silicon/addressing_architectural_differences_in_your_macos_code)
+[Addressing Architectural Differences in Your macOS Code](https://developer.apple.com/documentation/apple_silicon/addressing_architectural_differences_in_your_macos_code)
 
 [Porting Just-In-Time(JIT) Compilers to Apple Silicon](https://developer.apple.com/documentation/apple_silicon/porting_just-in-time_compilers_to_apple_silicon)
 
