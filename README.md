@@ -90,11 +90,17 @@
 
 [Arm Mobile Studio](https://developer.arm.com/tools-and-software/graphics-and-gaming/arm-mobile-studio) is a suite of free-to-use performance analysis tools that automatically analyzes the CPU activity, GPU activity and content metrics of your game as it runs on a non-rooted Android device. 
 
+[Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
 [Azure Resource Manager (ARM) Tools](https://github.com/Microsoft/vscode-azurearmtools) is an extension for Visual Studio Code that provides language support, resource snippets, and resource auto-completion to help you create and validate Azure Resource Manager templates.
 
 [Compute Library](https://github.com/ARM-software/ComputeLibrary) is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 
 [LISA](https://github.com/ARM-software/lisa) is a project provides a toolkit that supports regression testing and interactive analysis of Linux kernel behavior. LISA stands for Linux Integrated/Interactive System Analysis. LISA's goal is to help Linux kernel developers to measure the impact of modifications in core parts of the kernel. The focus is on the scheduler (EAS), power management and thermal frameworks. 
+
+[LLVM](https://github.com/llvm/) is a library that has a collection of modular/reusable compiler and toolchain components(assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end(where code converts LLVM's representation to actual machine code).
 
 [simdjson](https://simdjson.org/) library uses commonly available SIMD instructions and microparallel algorithms to parse gigabytes of JSON per second.
 
