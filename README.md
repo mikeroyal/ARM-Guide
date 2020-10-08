@@ -26,6 +26,26 @@
 
 [Getting started with Azure Resource Manager](https://azure.microsoft.com/en-us/features/resource-manager/)
 
+[Windows 10 on ARM ](https://docs.microsoft.com/en-us/windows/arm/)
+
+[Porting UWP applications for Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/uwp/porting/apps-on-arm)
+
+[Configuring C++ projects for ARM processors using the Microsoft Visual C++ (MSVC) compiler toolset](https://docs.microsoft.com/en-us/cpp/build/configuring-programs-for-arm-processors-visual-cpp)
+
+[Run ARM applications on the Android Emulator](https://android-developers.googleblog.com/2020/03/run-arm-apps-on-android-emulator.html)
+
+[Android Application Binary Interface (ABIs)](https://developer.android.com/ndk/guides/abis) is a combination of CPU and instruction set. Where different Android devices use different CPUs, which in turn support different instruction sets.
+
+[Ubuntu Server for ARM](https://ubuntu.com/download/server/arm)
+
+[Fedora ARM](https://arm.fedoraproject.org)
+
+[Manjaro Linux ARM](https://manjaro.org/download/#ARM)
+
+[Raspberry Pi board computers](https://www.raspberrypi.org/)
+
+[NVIDIA Jetson Nano 2GB Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
+
 [Arm Online Courses](https://www.arm.com/resources/education/online-courses)
 
 [Deep Learning on ARM Processors - From Ground Up online course](https://www.udemy.com/course/deep-learning-from-ground-uptm-on-arm-processors/)
@@ -37,6 +57,8 @@
 ## Apple Silicon Resources
 
 [Apple A12Z Bionic](https://www.apple.com/) is Apple's 64-bit ARM-based system on a chip (SoC) used in their iPhones adn iPads. Though, at WWDC 2020 it was announced that [Apple Silicon](https://developer.apple.com/documentation/apple_silicon) would [transition into Mac laptops](https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/). 
+
+[Xcode 12](https://developer.apple.com/xcode/) is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU. 
 
 [Porting Your macOS Apps to Apple Silicon](https://developer.apple.com/documentation/xcode/porting_your_macos_apps_to_apple_silicon)
 
@@ -57,6 +79,12 @@
 [Running Your iOS Apps on macOS](https://developer.apple.com/documentation/apple_silicon/running_your_ios_apps_on_macos)
 
 [Adapting iOS Code to Run in the macOS Environment](https://developer.apple.com/documentation/apple_silicon/adapting_ios_code_to_run_in_the_macos_environment)
+
+[Implementing Drivers, System Extensions, and Kexts](https://developer.apple.com/documentation/apple_silicon/implementing_drivers_system_extensions_and_kexts)
+
+[Installing a Custom Kernel Extension](https://developer.apple.com/documentation/apple_silicon/installing_a_custom_kernel_extension)
+
+[Debugging a Custom Kernel Extension](https://developer.apple.com/documentation/apple_silicon/debugging_a_custom_kernel_extension)
 
 ## Tools
 
