@@ -32,7 +32,7 @@
 
 [Run ARM applications on the Android Emulator](https://android-developers.googleblog.com/2020/03/run-arm-apps-on-android-emulator.html)
 
-[Android Application Binary Interface (ABIs)](https://developer.android.com/ndk/guides/abis) is a combination of CPU and instruction set. Where different Android devices use different CPUs, which in turn support different instruction sets.
+[Android Application Binary Interface (ABIs)](https://developer.android.com/ndk/guides/abis)
 
 [Ubuntu Server for ARM](https://ubuntu.com/download/server/arm)
 
