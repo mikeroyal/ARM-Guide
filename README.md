@@ -10,8 +10,6 @@
 
 [ARM](https://www.arm.com/) stands for Advanced RISC Machine, which is a collection of reduced instruction set computing architectures for CPUs configured for various development environments such servers, IoT, and other mobile devices. Arm was acquired by [NVIDIA](http://www.nvidia.com/page/home.html) in [September 2020](https://www.arm.com/company/news/2020/09/nvidia-to-acquire-arm).
 
-[RISC-V Foundation](https://riscv.org/) is a non-profit corporation controlled by its 500 members(NVIDIA, Google, Samsung, Raspberry Pi, SiFive, Canonical, and Western Digital) to drive forward the adoption and implementation of the free and open RISC-V instruction set architecture (ISA).
-
 [Learning the Arm Architecture](https://developer.arm.com/architectures/learn-the-architecture)
 
 [Arm Development Tools and Software](https://www.arm.com/products/development-tools)
