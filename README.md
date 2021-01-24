@@ -32,6 +32,8 @@
 
 [Windows 10 on ARM ](https://docs.microsoft.com/en-us/windows/arm/)
 
+[Introducing x64 emulation in preview for Windows 10 on ARM PCs to the Windows Insider Program](https://blogs.windows.com/windows-insider/2020/12/10/introducing-x64-emulation-in-preview-for-windows-10-on-arm-pcs-to-the-windows-insider-program/)
+
 [Porting UWP applications for Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/uwp/porting/apps-on-arm)
 
 [Configuring C++ projects for ARM processors using the Microsoft Visual C++ (MSVC) compiler toolset](https://docs.microsoft.com/en-us/cpp/build/configuring-programs-for-arm-processors-visual-cpp)
