@@ -6,7 +6,7 @@
 
 #### A guide covering ARM architecture including the applications and tools that will make you a better and more efficient ARM developer.
 
-# Tables of Contents
+# Table of Contents
 
 1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#arm-learning-resources)
 
