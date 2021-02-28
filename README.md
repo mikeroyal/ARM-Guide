@@ -6,7 +6,15 @@
 
 #### A guide covering ARM architecture including the applications and tools that will make you a better and more efficient ARM developer.
 
-## ARM Resources
+# Tables of Contents
+
+1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide/readme#arm-learning-resources)
+
+2. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide/readme#apple-silicon--learning-resources)
+
+3. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide/readme#arom-tools--projects)
+
+# ARM Learning Resources
 
 [ARM](https://www.arm.com/) stands for Advanced RISC Machine, which is a collection of reduced instruction set computing architectures for CPUs configured for various development environments such servers, IoT, and other mobile devices. Arm was acquired by [NVIDIA](http://www.nvidia.com/page/home.html) in [September 2020](https://www.arm.com/company/news/2020/09/nvidia-to-acquire-arm).
 
@@ -44,6 +52,8 @@
 
 [Ubuntu Server for ARM](https://ubuntu.com/download/server/arm)
 
+[Debian for ARM](https://www.debian.org/releases/stable/arm64/)
+
 [Fedora ARM](https://arm.fedoraproject.org)
 
 [Manjaro Linux ARM](https://manjaro.org/download/#ARM)
@@ -64,11 +74,11 @@
 
 [Microcontroller Courses from Coursera](https://www.coursera.org/courses?query=microcontroller)
 
-## Apple Silicon Resources
+# Apple Silicon & Learning Resources
 
-<h1 align="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/105645197-de010180-5e4e-11eb-823b-c2152b3223ef.jpeg">
-</h1>
+</p>
 
 [Does it ARM? Apps that are reported to support Apple Silicon](https://doesitarm.com)
 
@@ -112,7 +122,7 @@
 
 [Debugging a Custom Kernel Extension](https://developer.apple.com/documentation/apple_silicon/debugging_a_custom_kernel_extension)
 
-## Tools
+# ARM Tools & Projects
 
 [Arm Instruction Emulator (ArmIE)](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials) is a tool that emulates Scalable Vector Extension (SVE) and SVE2 instructions on AArch64/ARM64 platforms. 
 
