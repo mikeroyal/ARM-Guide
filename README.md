@@ -8,11 +8,11 @@
 
 # Tables of Contents
 
-1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide/readme#arm-learning-resources)
+1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#arm-learning-resources)
 
-2. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide/readme#apple-silicon--learning-resources)
+2. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#apple-silicon--learning-resources)
 
-3. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide/readme#arom-tools--projects)
+3. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#arm-tools--projects)
 
 # ARM Learning Resources
 
