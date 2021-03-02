@@ -200,15 +200,15 @@
 
 [Configuring C++ projects for ARM processors using the Microsoft Visual C++ (MSVC) compiler toolset](https://docs.microsoft.com/en-us/cpp/build/configuring-programs-for-arm-processors-visual-cpp)
 
-<h1 align="center">
+<h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/109593441-d4aa2b00-7ac5-11eb-87f6-d88772c2ac9f.png">
-  Windows 10 Deskop
-</h1>
+  Windows 10 Desktop
+</h3>
 
-<h1 align="center">
+<h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/109593447-d70c8500-7ac5-11eb-9a73-ab9690d5a8e8.png">
-  Windows 10X Deskop
-</h1>
+  Windows 10X Desktop
+</h3>
 
 # ARM Tools & Projects
 
