@@ -12,7 +12,11 @@
 
 2. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#apple-silicon--learning-resources)
 
-3. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#arm-tools--projects)
+3. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#linux-on-arm)
+
+4. [Windows 10 on ARM](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#windows-10-on-arm)
+
+5. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#arm-tools--projects)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/109565966-0d331000-7a98-11eb-8236-7bc8419c3a98.png">
@@ -44,29 +48,9 @@
 
 [Qualcomm Snapdragon Mobile Platforms, Processors and Chipsets](https://www.qualcomm.com/snapdragon)
 
-[Windows 10 on ARM ](https://docs.microsoft.com/en-us/windows/arm/)
-
-[Introducing x64 emulation in preview for Windows 10 on ARM PCs to the Windows Insider Program](https://blogs.windows.com/windows-insider/2020/12/10/introducing-x64-emulation-in-preview-for-windows-10-on-arm-pcs-to-the-windows-insider-program/)
-
-[Porting UWP applications for Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/uwp/porting/apps-on-arm)
-
-[Configuring C++ projects for ARM processors using the Microsoft Visual C++ (MSVC) compiler toolset](https://docs.microsoft.com/en-us/cpp/build/configuring-programs-for-arm-processors-visual-cpp)
-
 [Run ARM applications on the Android Emulator](https://android-developers.googleblog.com/2020/03/run-arm-apps-on-android-emulator.html)
 
 [Android Application Binary Interface (ABIs)](https://developer.android.com/ndk/guides/abis)
-
-[Ubuntu Server for ARM](https://ubuntu.com/download/server/arm)
-
-[Debian for ARM](https://www.debian.org/releases/stable/arm64/)
-
-[Fedora ARM](https://arm.fedoraproject.org)
-
-[Manjaro Linux ARM](https://manjaro.org/download/#ARM)
-
-[SUSE Linux Enterprise Server for Arm](https://www.suse.com/products/arm/)
-
-[openSUSE Arm](https://en.opensuse.org/Portal:ARM)
 
 [Raspberry Pi board computers](https://www.raspberrypi.org/)
 
@@ -130,13 +114,112 @@
 
 [Debugging a Custom Kernel Extension](https://developer.apple.com/documentation/apple_silicon/debugging_a_custom_kernel_extension)
 
-# ARM Tools & Projects
+# Linux on ARM
 
 [Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109565962-0c01e300-7a98-11eb-9ae7-f59b21fd532d.png">
-</p>
+[Ubuntu Desktop](https://ubuntu.com/raspberry-pi)
+
+[Ubuntu Server for ARM](https://ubuntu.com/download/server/arm)
+
+[Ubuntu Wiki for ARM](https://wiki.ubuntu.com/ARM)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/106686328-f5db3280-657e-11eb-9109-88a1df99983a.png">
+  <br />
+  Ubuntu Desktop
+</h1>
+
+[Debian for ARM](https://www.debian.org/releases/stable/arm64/)
+
+[Debian Wiki](https://wiki.debian.org/)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107439775-73ef8a00-6ae7-11eb-9037-6aa910fc3c74.png">
+  <br />
+  Debian Desktop
+</h1>
+
+[Fedora ARM](https://arm.fedoraproject.org)
+
+[Fedora Project Wiki](http://fedoraproject.org/wiki/Fedora_Project_Wiki)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107158827-70220300-6941-11eb-917b-dbdb7142a13b.png">
+  <br />
+  Fedora Desktop
+</h1>
+
+[Manjaro Linux ARM](https://manjaro.org/download/#ARM)
+
+[Manjaro Wiki](https://wiki.manjaro.org/index.php?title=Main_Page)
+
+ <h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107439879-9da8b100-6ae7-11eb-81a5-219d713130dc.png">
+  <br />
+  Manjaro Linux Desktop
+</h1>
+
+[EndeavourOS for ARM](https://arm.endeavouros.com/) 
+
+[EndeavourOS Wiki](https://endeavouros.com/wiki/)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107439882-9e414780-6ae7-11eb-819e-e87e7bcc7a97.png">
+  <br />
+  EndeavourOS Deskop
+</h1>
+ 
+[SUSE Linux Enterprise Server for ARM](https://www.suse.com/products/arm/)
+
+[SUSE Wiki](https://documentation.suse.com/)
+
+ <h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107439814-84a00000-6ae7-11eb-843c-7c1ecc4b60cf.png">
+  <br />
+  SUSE Linux Enterprise 12 Desktop
+</h1>
+
+[openSUSE for ARM](https://en.opensuse.org/Portal:ARM)
+
+[openSUSE Wiki](https://en.opensuse.org/Main_Page)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107439822-879af080-6ae7-11eb-9404-9f1113945c0e.png">
+  <br />
+  openSUSE Deskop
+</h1>
+
+
+# Windows 10 on ARM
+
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
+
+[Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/arm/)
+
+[Windows 10X](https://docs.microsoft.com/en-us/windows/apps/10x/faq)
+
+[Qualcomm Snapdragon Mobile Platforms, Processors and Chipsets](https://www.qualcomm.com/snapdragon)
+
+[Introducing x64 emulation in preview for Windows 10 on ARM PCs to the Windows Insider Program](https://blogs.windows.com/windows-insider/2020/12/10/introducing-x64-emulation-in-preview-for-windows-10-on-arm-pcs-to-the-windows-insider-program/)
+
+[Porting UWP applications for Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/uwp/porting/apps-on-arm)
+
+[Configuring C++ projects for ARM processors using the Microsoft Visual C++ (MSVC) compiler toolset](https://docs.microsoft.com/en-us/cpp/build/configuring-programs-for-arm-processors-visual-cpp)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/109593441-d4aa2b00-7ac5-11eb-87f6-d88772c2ac9f.png">
+  Windows 10 Deskop
+</h1>
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/109593447-d70c8500-7ac5-11eb-9a73-ab9690d5a8e8.png">
+  Windows 10X Deskop
+</h1>
+
+# ARM Tools & Projects
+
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
 [Arm Instruction Emulator (ArmIE)](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials) is a tool that emulates Scalable Vector Extension (SVE) and SVE2 instructions on AArch64/ARM64 platforms. 
 
