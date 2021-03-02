@@ -127,7 +127,6 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/106686328-f5db3280-657e-11eb-9109-88a1df99983a.png">
   <br />
-  Ubuntu Desktop
 </h1>
 
 [Debian for ARM](https://www.debian.org/releases/stable/arm64/)
@@ -137,7 +136,6 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439775-73ef8a00-6ae7-11eb-9037-6aa910fc3c74.png">
   <br />
-  Debian Desktop
 </h1>
 
 [Fedora ARM](https://arm.fedoraproject.org)
@@ -147,7 +145,6 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107158827-70220300-6941-11eb-917b-dbdb7142a13b.png">
   <br />
-  Fedora Desktop
 </h1>
 
 [Manjaro Linux ARM](https://manjaro.org/download/#ARM)
@@ -157,7 +154,6 @@
  <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439879-9da8b100-6ae7-11eb-81a5-219d713130dc.png">
   <br />
-  Manjaro Linux Desktop
 </h1>
 
 [EndeavourOS for ARM](https://arm.endeavouros.com/) 
@@ -167,7 +163,6 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439882-9e414780-6ae7-11eb-819e-e87e7bcc7a97.png">
   <br />
-  EndeavourOS Deskop
 </h1>
  
 [SUSE Linux Enterprise Server for ARM](https://www.suse.com/products/arm/)
@@ -177,7 +172,6 @@
  <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439814-84a00000-6ae7-11eb-843c-7c1ecc4b60cf.png">
   <br />
-  SUSE Linux Enterprise 12 Desktop
 </h1>
 
 [openSUSE for ARM](https://en.opensuse.org/Portal:ARM)
@@ -187,7 +181,6 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439822-879af080-6ae7-11eb-9404-9f1113945c0e.png">
   <br />
-  openSUSE Deskop
 </h1>
 
 
