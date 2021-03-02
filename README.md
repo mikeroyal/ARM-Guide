@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/95383867-a589e780-08a0-11eb-81cd-f4069dc72dd8.png">
+ <img src="https://user-images.githubusercontent.com/45159366/109712161-8bed8300-7b54-11eb-8ab1-0c91b7ff5159.png">
   <br />
   ARM Guide
 </h1>
