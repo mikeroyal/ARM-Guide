@@ -152,7 +152,7 @@
 [Manjaro Wiki](https://wiki.manjaro.org/index.php?title=Main_Page)
 
  <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439879-9da8b100-6ae7-11eb-81a5-219d713130dc.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110054438-f3036700-7d0f-11eb-88bc-dab9b262c097.png">
   <br />
 </h1>
 
@@ -183,6 +183,14 @@
   <br />
 </h1>
 
+[Asahi Linux](https://asahilinux.org/) is a project and community with the goal of porting Linux to Apple Silicon Macs, starting with the 2020 M1 Mac Mini, MacBook Air, and MacBook Pro. Our goal is not just to make Linux run on these machines but to polish it to the point where it can be used as a daily OS.
+
+[Asahi Linux Wiki](https://github.com/AsahiLinux/docs/wiki)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110054441-f4349400-7d0f-11eb-8889-743009b33994.png">
+  <br />
+</h1>
 
 # Windows 10 on ARM
 
