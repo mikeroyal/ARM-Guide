@@ -172,7 +172,7 @@
 [SUSE Wiki](https://documentation.suse.com/)
 
  <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439814-84a00000-6ae7-11eb-843c-7c1ecc4b60cf.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110253144-9f766080-7f3d-11eb-9a01-2ac6738637e9.png">
   <br />
 </h1>
 
@@ -181,7 +181,7 @@
 [openSUSE Wiki](https://en.opensuse.org/Main_Page)
 
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439822-879af080-6ae7-11eb-9404-9f1113945c0e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110253145-a00ef700-7f3d-11eb-9b5c-d3cee3cbce84.png">
   <br />
 </h1>
 
