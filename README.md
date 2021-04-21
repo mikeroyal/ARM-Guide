@@ -22,9 +22,9 @@
 
 6. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#fpga-development)
 
-7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#verilog-systemverilog-development)
+7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#verilogsystemverilog-development)
 
-8. [C/C++ Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#c-c-development)
+8. [C/C++ Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#cc-development)
 
 9. [Java Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#java-development)
 
@@ -32,7 +32,7 @@
 
 11. [Rust Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#rust-development)
 
-12. [Kuberentes](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#kubernetes)
+12. [Kubernetes](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#kubernetes)
 
 13. [Machine Learning](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#machine-learning)
 
@@ -937,7 +937,7 @@
 <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
 </p>
 
-[Kubernetes (K8s)](https://kubernetes.io/) is an open-source system for automating deployment, scaling, and management of containerized applications. [Installing Kubernetes on Ubuntu](https://ubuntu.com/kubernetes/install).
+[Kubernetes (K8s)](https://kubernetes.io/) is an open-source system for automating deployment, scaling, and management of containerized applications. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/105645195-db9ea780-5e4e-11eb-8357-fb38b2f06d74.png">
