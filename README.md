@@ -10,37 +10,37 @@
 
 # Table of Contents
 
-1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#arm-learning-resources)
+1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide#arm-learning-resources)
 
-2. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#apple-silicon--learning-resources)
+2. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide#apple-silicon--learning-resources)
 
-3. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#linux-on-arm)
+3. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide#linux-on-arm)
 
-4. [Windows 10 on ARM](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#windows-10-on-arm)
+4. [Windows 10 on ARM](https://github.com/mikeroyal/ARM-Guide#windows-10-on-arm)
 
-5. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#arm-tools--projects)
+5. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide#arm-tools--projects)
 
-6. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#fpga-development)
+6. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/ARM-Guide#fpga-development)
 
-7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#verilogsystemverilog-development)
+7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/ARM-Guide#verilogsystemverilog-development)
 
-8. [C/C++ Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#cc-development)
+8. [C/C++ Development](https://github.com/mikeroyal/ARM-Guide#cc-development)
 
-9. [Java Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#java-development)
+9. [Java Development](https://github.com/mikeroyal/ARM-Guide#java-development)
 
-10. [Python Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#python-development)
+10. [Python Development](https://github.com/mikeroyal/ARM-Guide#python-development)
 
-11. [Rust Development](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#rust-development)
+11. [Rust Development](https://github.com/mikeroyal/ARM-Guide#rust-development)
 
-12. [Kubernetes](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#kubernetes)
+12. [Kubernetes](https://github.com/mikeroyal/ARM-Guide#kubernetes)
 
-13. [Machine Learning](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#machine-learning)
+13. [Machine Learning](https://github.com/mikeroyal/ARM-Guide#machine-learning)
 
-14. [Robotics](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#robotics)
+14. [Robotics](https://github.com/mikeroyal/ARM-Guide#robotics)
 
-15. [Telco 5G]()
+15. [Telco 5G](https://github.com/mikeroyal/ARM-Guide#telco-5g)
 
-16. [Networking]()
+16. [Networking](https://github.com/mikeroyal/ARM-Guide#networking)
 
 
 <p align="center">
