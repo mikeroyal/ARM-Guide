@@ -12,13 +12,13 @@
 
 1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide#arm-learning-resources)
 
-2. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide#apple-silicon--learning-resources)
+2. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide#arm-tools--projects)
 
-3. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide#linux-on-arm)
+3. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide#apple-silicon--learning-resources)
 
-4. [Windows 10 on ARM](https://github.com/mikeroyal/ARM-Guide#windows-10-on-arm)
+4. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide#linux-on-arm)
 
-5. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide#arm-tools--projects)
+5. [Windows 10 on ARM](https://github.com/mikeroyal/ARM-Guide#windows-10-on-arm) 
 
 6. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/ARM-Guide#fpga-development)
 
@@ -57,6 +57,8 @@
 
 [Arm’s Total Compute design](https://www.arm.com/why-arm/total-compute)
 
+[SVE and SVE2 Programmer's Guide](https://developer.arm.com/architectures/instruction-sets/simd-isas/sve/sve-programmers-guide)
+
 [NVIDIA CUDA on Arm](https://developer.nvidia.com/cuda-toolkit/arm)
 
 [Learning the Arm Architecture](https://developer.arm.com/architectures/learn-the-architecture)
@@ -92,6 +94,50 @@
 [Embedded Systems using the ARM Mbed Platform online course](https://www.udemy.com/course/arm-mbed/)
 
 [Microcontroller Courses from Coursera](https://www.coursera.org/courses?query=microcontroller)
+
+# ARM Tools & Projects
+
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
+
+[Armv9](https://www.arm.com/blogs/blueprint/armv9?_ga=2.37680224.1534693862.1616989380-1578602299.1612458803&_gac=1.48967698.1616092796.EAIaIQobChMIv8K527667wIVBfHACh3nBwKhEAAYASAAEgIdYfD_BwE) is a new Arm architecture built on the success of [Armv8](https://en.wikichip.org/wiki/arm/armv8) that offers a CPU performance increase of more than 30% over the next two generations of mobile and infrastructure CPUs. Armv9 will accelerate the move from general-purpose to more specialized compute across every application as AI, the Internet of Things (IoT) and 5G gain momentum world-wide.
+
+[SVE2](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials/sve/sve-vs-sve2/introduction-to-sve2) is the Scalable Vector Extension version two of the Arm AArch64 architecture. It closley follows the development process of the [Neon architecture extension](https://www.arm.com/why-arm/technologies/neon), which has a fixed 128-bit vector length for the instruction set, Arm designed the Scalable Vector Extension (SVE). Arm developed SVE2 for [Armv9]((https://www.arm.com/blogs/blueprint/armv9_ga=2.37680224.1534693862.1616989380-1578602299.1612458803&_gac=1.48967698.1616092796.EAIaIQobChMIv8K527667wIVBfHACh3nBwKhEAAYASAAEgIdYfD_BwE)) to enable enhanced machine learning (ML) and digital signal processing (DSP) capabilities across a wider range of applications. SVE2 will enhance the processing ability of 5G systems, virtual and augmented reality, and ML workloads running locally on CPUs, such as image processing and smart home applications. 
+
+[Arm Neon](https://www.arm.com/why-arm/technologies/neon) is an advanced single instruction [multiple data (SIMD) architecture extension](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon) for the Arm Cortex-A and Arm Cortex-R series of processors with capabilities that vastly improve use cases on mobile devices, such as multimedia encoding/decoding, user interface, 2D/3D graphics and gaming.
+
+[Arm Instruction Emulator (ArmIE)](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials) is a tool that emulates Scalable Vector Extension (SVE) and SVE2 instructions on AArch64/ARM64 platforms. 
+
+[Arm Mobile Studio](https://developer.arm.com/tools-and-software/graphics-and-gaming/arm-mobile-studio) is a suite of free-to-use performance analysis tools that automatically analyzes the CPU activity, GPU activity and content metrics of your game as it runs on a non-rooted Android device. 
+
+[Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Arduino IDE](https://www.arduino.cc/en/software) is an open-source integrated development environment for the Arduino platform that provides easy-to-use hardware and software.
+
+[Compute Library](https://github.com/ARM-software/ComputeLibrary) is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+
+[LISA](https://github.com/ARM-software/lisa) is a project provides a toolkit that supports regression testing and interactive analysis of Linux kernel behavior. LISA stands for Linux Integrated/Interactive System Analysis. LISA's goal is to help Linux kernel developers to measure the impact of modifications in core parts of the kernel. The focus is on the scheduler (EAS), power management and thermal frameworks. 
+
+[LLVM](https://github.com/llvm/) is a library that has a collection of modular/reusable compiler and toolchain components(assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end(where code converts LLVM's representation to actual machine code).
+
+[The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) is a collection of plug-ins for Arm & RISC-V C/C++ developers.
+
+[PlatformIO](https://platformio.org/) is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.
+
+[PlatformIO for VSCode](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) is a plugin that provides support for the PlatformIO IDE on VSCode.
+
+[simdjson](https://simdjson.org/) library uses commonly available SIMD instructions and microparallel algorithms to parse gigabytes of JSON per second.
+
+[TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
+
+[Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+
+[Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. 
+
+[Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
+
+[faasd](https://openfaas.com/blog/introducing-faasd/) is a project similar to [OpenFaaS](https://github.com/openfaas/), but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage. Under the hood it uses [containerd](https://containerd.io/) and [Container Networking Interface (CNI)](https://github.com/containernetworking/cni) along with the same core OpenFaaS components from the main project.
 
 # Apple Silicon & Learning Resources
 
@@ -227,8 +273,6 @@
 
 [Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/arm/)
 
-[Windows 10X](https://docs.microsoft.com/en-us/windows/apps/10x/faq)
-
 [Qualcomm Snapdragon Mobile Platforms, Processors and Chipsets](https://www.qualcomm.com/snapdragon)
 
 [Introducing x64 emulation in preview for Windows 10 on ARM PCs to the Windows Insider Program](https://blogs.windows.com/windows-insider/2020/12/10/introducing-x64-emulation-in-preview-for-windows-10-on-arm-pcs-to-the-windows-insider-program/)
@@ -241,52 +285,6 @@
  <img src="https://user-images.githubusercontent.com/45159366/120387363-a9aabf80-c2de-11eb-84a5-8e4b422e7546.png">
   Windows 10 Desktop
 </h3>
-
-# ARM Tools & Projects
-
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
-
-[Armv9](https://www.arm.com/blogs/blueprint/armv9?_ga=2.37680224.1534693862.1616989380-1578602299.1612458803&_gac=1.48967698.1616092796.EAIaIQobChMIv8K527667wIVBfHACh3nBwKhEAAYASAAEgIdYfD_BwE) is a new Arm architecture built on the success of [Armv8](https://en.wikichip.org/wiki/arm/armv8) that offers a CPU performance increase of more than 30% over the next two generations of mobile and infrastructure CPUs. Armv9 will accelerate the move from general-purpose to more specialized compute across every application as AI, the Internet of Things (IoT) and 5G gain momentum world-wide.
-
-[SVE2](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials/sve/sve-vs-sve2/introduction-to-sve2) is the Scalable Vector Extension version two of the Arm AArch64 architecture. It closley follows the development process of the [Neon architecture extension](https://www.arm.com/why-arm/technologies/neon), which has a fixed 128-bit vector length for the instruction set, Arm designed the Scalable Vector Extension (SVE). Arm developed SVE2 for [Armv9]((https://www.arm.com/blogs/blueprint/armv9_ga=2.37680224.1534693862.1616989380-1578602299.1612458803&_gac=1.48967698.1616092796.EAIaIQobChMIv8K527667wIVBfHACh3nBwKhEAAYASAAEgIdYfD_BwE)) to enable enhanced machine learning (ML) and digital signal processing (DSP) capabilities across a wider range of applications. SVE2 will enhance the processing ability of 5G systems, virtual and augmented reality, and ML workloads running locally on CPUs, such as image processing and smart home applications. 
-
-[SVE and SVE2 Programmer's Guide](https://developer.arm.com/architectures/instruction-sets/simd-isas/sve/sve-programmers-guide)
-
-[Arm Neon](https://www.arm.com/why-arm/technologies/neon) is an advanced single instruction [multiple data (SIMD) architecture extension](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon) for the Arm Cortex-A and Arm Cortex-R series of processors with capabilities that vastly improve use cases on mobile devices, such as multimedia encoding/decoding, user interface, 2D/3D graphics and gaming.
-
-[Arm Instruction Emulator (ArmIE)](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials) is a tool that emulates Scalable Vector Extension (SVE) and SVE2 instructions on AArch64/ARM64 platforms. 
-
-[Arm Mobile Studio](https://developer.arm.com/tools-and-software/graphics-and-gaming/arm-mobile-studio) is a suite of free-to-use performance analysis tools that automatically analyzes the CPU activity, GPU activity and content metrics of your game as it runs on a non-rooted Android device. 
-
-[Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
-
-[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
-
-[Arduino IDE](https://www.arduino.cc/en/software) is an open-source integrated development environment for the Arduino platform that provides easy-to-use hardware and software.
-
-[Compute Library](https://github.com/ARM-software/ComputeLibrary) is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
-
-[LISA](https://github.com/ARM-software/lisa) is a project provides a toolkit that supports regression testing and interactive analysis of Linux kernel behavior. LISA stands for Linux Integrated/Interactive System Analysis. LISA's goal is to help Linux kernel developers to measure the impact of modifications in core parts of the kernel. The focus is on the scheduler (EAS), power management and thermal frameworks. 
-
-[LLVM](https://github.com/llvm/) is a library that has a collection of modular/reusable compiler and toolchain components(assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end(where code converts LLVM's representation to actual machine code).
-
-[The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-
-[PlatformIO](https://platformio.org/) is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.
-
-[PlatformIO for VSCode](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) is a plugin that provides support for the PlatformIO IDE on VSCode.
-
-[simdjson](https://simdjson.org/) library uses commonly available SIMD instructions and microparallel algorithms to parse gigabytes of JSON per second.
-
-[TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
-
-[Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
-
-[Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. 
-
-[Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
-
-[faasd](https://openfaas.com/blog/introducing-faasd/) is a project similar to [OpenFaaS](https://github.com/openfaas/), but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage. Under the hood it uses [containerd](https://containerd.io/) and [Container Networking Interface (CNI)](https://github.com/containernetworking/cni) along with the same core OpenFaaS components from the main project.
 
 # FPGA Development
 
