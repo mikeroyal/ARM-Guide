@@ -55,9 +55,9 @@
 
 [Digital signal processing (DSP)](https://developer.arm.com/architectures/instruction-sets/dsp-extensions) is the use of digital processing, with computers or specialized digital signal processors, to perform a wide variety of signal processing operations.
 
-[Floating-point](https://developer.arm.com/architectures/instruction-sets/floating-point) is a variable type that is used to store floating-point number values. A floating-point number is one where the position of the decimal point can "float" rather than being in a fixed position within a number. Floating-point is particularly suitable when computational accuracy is a critical requirement and is essential for a wide range of digital signal processing (DSP) applications. Many applications that involve large data sets or data sets with unpredictable ranges also benefit from the precision and dynamic range of floating-point data types.
+[Floating-point](https://developer.arm.com/architectures/instruction-sets/floating-point) is a variable type that is used to store floating-point number values.  A Floating-point is particularly suitable when computational accuracy is a critical requirement and is essential for a wide range of digital signal processing (DSP) applications. Many applications that involve large data sets or data sets with unpredictable ranges also benefit from the precision and dynamic range of floating-point data types.
 
-A64 instruction set](https://developer.arm.com/architectures/instruction-sets/base-isas/a64) is an instruction set, introduced in Armv8-A to support the 64-bit architecture.
+[A64 instruction set](https://developer.arm.com/architectures/instruction-sets/base-isas/a64) is an instruction set, introduced in Armv8-A to support the 64-bit architecture.
 
 [Arm Processor IPs for Devices](https://www.arm.com/products/silicon-ip-cpu)
 
