@@ -53,6 +53,12 @@
 
 [ARM](https://www.arm.com/) stands for Advanced RISC Machine, which is a collection of reduced instruction set computing architectures for CPUs configured for various development environments such servers, IoT, and other mobile devices. Arm was acquired by [NVIDIA](http://www.nvidia.com/page/home.html) in [September 2020](https://www.arm.com/company/news/2020/09/nvidia-to-acquire-arm).
 
+[Digital signal processing (DSP)](https://developer.arm.com/architectures/instruction-sets/dsp-extensions) is the use of digital processing, with computers or specialized digital signal processors, to perform a wide variety of signal processing operations.
+
+[Floating-point](https://developer.arm.com/architectures/instruction-sets/floating-point) is a variable type that is used to store floating-point number values. A floating-point number is one where the position of the decimal point can "float" rather than being in a fixed position within a number. Floating-point is particularly suitable when computational accuracy is a critical requirement and is essential for a wide range of digital signal processing (DSP) applications. Many applications that involve large data sets or data sets with unpredictable ranges also benefit from the precision and dynamic range of floating-point data types.
+
+A64 instruction set](https://developer.arm.com/architectures/instruction-sets/base-isas/a64) is an instruction set, introduced in Armv8-A to support the 64-bit architecture.
+
 [Arm Processor IPs for Devices](https://www.arm.com/products/silicon-ip-cpu)
 
 [Arm’s Total Compute design](https://www.arm.com/why-arm/total-compute)
@@ -104,6 +110,8 @@
 [SVE2](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials/sve/sve-vs-sve2/introduction-to-sve2) is the Scalable Vector Extension version two of the Arm AArch64 architecture. It closley follows the development process of the [Neon architecture extension](https://www.arm.com/why-arm/technologies/neon), which has a fixed 128-bit vector length for the instruction set, Arm designed the Scalable Vector Extension (SVE). Arm developed SVE2 for [Armv9]((https://www.arm.com/blogs/blueprint/armv9_ga=2.37680224.1534693862.1616989380-1578602299.1612458803&_gac=1.48967698.1616092796.EAIaIQobChMIv8K527667wIVBfHACh3nBwKhEAAYASAAEgIdYfD_BwE)) to enable enhanced machine learning (ML) and digital signal processing (DSP) capabilities across a wider range of applications. SVE2 will enhance the processing ability of 5G systems, virtual and augmented reality, and ML workloads running locally on CPUs, such as image processing and smart home applications. 
 
 [Arm Neon](https://www.arm.com/why-arm/technologies/neon) is an advanced single instruction [multiple data (SIMD) architecture extension](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon) for the Arm Cortex-A and Arm Cortex-R series of processors with capabilities that vastly improve use cases on mobile devices, such as multimedia encoding/decoding, user interface, 2D/3D graphics and gaming.
+
+[Arm Helium](https://developer.arm.com/architectures/instruction-sets/simd-isas/helium) is an extension of the Armv8.1-M architecture and delivers a significant performance uplift for machine learning and digital signal processing applications.
 
 [Arm Instruction Emulator (ArmIE)](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-instruction-emulator/resources/tutorials) is a tool that emulates Scalable Vector Extension (SVE) and SVE2 instructions on AArch64/ARM64 platforms. 
 
