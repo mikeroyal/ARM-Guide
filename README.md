@@ -18,7 +18,7 @@
 
 4. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide#linux-on-arm)
 
-5. [Windows 10 on ARM](https://github.com/mikeroyal/ARM-Guide#windows-10-on-arm) 
+5. [Windows on ARM](https://github.com/mikeroyal/ARM-Guide#windows-on-arm) 
 
 6. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/ARM-Guide#fpga-development)
 
@@ -275,9 +275,11 @@
   <br />
 </h1>
 
-# Windows 10 on ARM
+# Windows on ARM
 
 [Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
+
+[ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. The ARM64EC code in the app will run natively while any x64 code will run using Windows 11 on ARM’s built-in emulation. The ARM64EC ABI differs slightly from the current [ARM64 ABI](https://docs.microsoft.com/en-us/cpp/build/arm64-windows-abi-conventions?view=msvc-160) in ways that make it binary compatible with x64 code. Specifically, the ARM64EC ABI follows x64 software conventions including calling convention, stack usage, and data alignment, making ARM64EC and x64 interoperable. Apps built as ARM64EC may contain x64 code but do not have to, since ARM64EC is its own complete, first-class ABI for Windows.
 
 [Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/arm/)
 
@@ -288,6 +290,11 @@
 [Porting UWP applications for Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/uwp/porting/apps-on-arm)
 
 [Configuring C++ projects for ARM processors using the Microsoft Visual C++ (MSVC) compiler toolset](https://docs.microsoft.com/en-us/cpp/build/configuring-programs-for-arm-processors-visual-cpp)
+
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124997795-20cf2400-e000-11eb-8954-4944286b8ea8.png">
+  Windows 11 Desktop
+</h3>
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/120387363-a9aabf80-c2de-11eb-84a5-8e4b422e7546.png">
