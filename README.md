@@ -44,14 +44,14 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109565966-0d331000-7a98-11eb-8236-7bc8419c3a98.png">
+<img src="https://user-images.githubusercontent.com/45159366/156943308-e32a0d8c-0df8-4cc4-8dbc-e19de33953ea.png">
 </p>
 
 # ARM Learning Resources
 
 [Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
-[ARM](https://www.arm.com/) stands for Advanced RISC Machine, which is a collection of reduced instruction set computing architectures for CPUs configured for various development environments such servers, IoT, and other mobile devices. Arm was acquired by [NVIDIA](http://www.nvidia.com/page/home.html) in [September 2020](https://www.arm.com/company/news/2020/09/nvidia-to-acquire-arm).
+[ARM](https://www.arm.com/) stands for Advanced RISC Machine, which is a collection of reduced instruction set computing architectures for CPUs configured for various development environments such servers, IoT, and other mobile devices. 
 
 [Digital signal processing (DSP)](https://developer.arm.com/architectures/instruction-sets/dsp-extensions) is the use of digital processing, with computers or specialized digital signal processors, to perform a wide variety of signal processing operations.
 
